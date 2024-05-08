@@ -1,0 +1,12 @@
+Sowmya Intro
+I have over 6 years of experience in Java/J2EE technologies, proficient in all phases of the Development Life Cycle.
+Skilled in methodologies like analysis, design, development, integration, testing, and maintenance.
+Extensive expertise in Java 8 and thorough knowledge of Java 11 features.
+Actively championed the adoption of Java 17 features, improving code quality and staying current with advancements.
+With good Demonstrated ability to diagnose and resolve complex IT issues effectively.
+Proficient in monitoring system health, performance, and security to proactively identify and address potential issues.
+Versatility in handling various technologies including hardware, software, and IT security protocols.
+Ability to document support procedures, known issues, and resolutions for knowledge sharing and future reference.
+Solid grasp of networking protocols and IT management tools for efficient administration.
+Commitment to continuous improvement, staying updated on technology trends and acquiring new skills to enhance support capabilities.
+
